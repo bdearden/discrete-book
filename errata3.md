@@ -18,6 +18,14 @@ Page numbers match print and tablet pdf edition.
 * Exercise 2.2.15: The second example of an acceptable license plate should be 123321 (or some other 6-digit plate with only numerals, instead of the 5 digits that are currently there).
 The following errors have not yet been corrected in the print/pdf versions (but are likely fixed online).
 
+* Proof of Theorem 4.3.4: In Case 1, the function is bounded above by a horizontal asymptote at *k* = 6, not f=6.
+
+* Example 5.1.1: The sequence as displayed is missing a 0 between the 1 and the 1/7.
+
+* Example 5.1.5: The solution includes the number 28, but it should be 26 (in three places).
+
+* Example 5.2.7: In solving the congruence, the first line should be $8y \equiv 637 \pmod{5}$.
+
 <!-- ### Major errors
 
 ### Minor typos and clarifications -->
