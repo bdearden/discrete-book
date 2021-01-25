@@ -19,7 +19,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <!-- Assumes current file is in mathbook/user -->
-<xsl:import href="../xsl/mathbook-html.xsl" />
+<xsl:import href="../xsl/pretext-html.xsl" />
 <!-- Assumes next file can be found in mathbook/user-->
 <xsl:import href="dmoi-common.xsl" />
 
@@ -137,7 +137,7 @@
 <xsl:param name="html.css.colorfile" select="''" />
 <xsl:param name="debug.colorgs" select="'blue_grey'" />
 <!-- A space-separated list of CSS URLs (points to servers or local files) -->
-<xsl:param name="html.css.extra"  select="'custom-styles.css'" />
+<xsl:param name="html.css.extra"  select="'custom-styles.css style_oscarlevin.css'" />
 
 <!-- Navigation -->
 <!-- Navigation may follow two different logical models:                     -->
